@@ -1,0 +1,126 @@
+# Copyright (C) 2026 Marcello Ruoppolo
+# This file is distributed under the same license as the Wonder Land theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wonder Land 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wonderland\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-01-13T21:51:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: wonderland\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Wonder Land"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://github.com/maruoppolo/wonderland"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Custom theme developed from scratch for technical testing."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Marcello Ruoppolo"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://github.com/maruoppolo"
+msgstr ""
+
+#: footer.php:6
+msgid "Don't wait any longer!"
+msgstr ""
+
+#: footer.php:7
+msgid "Fill out this form and we'll create the landscape of your dreams."
+msgstr ""
+
+#: footer.php:17
+#: footer.php:28
+msgid "Next"
+msgstr ""
+
+#: footer.php:27
+#: footer.php:38
+msgid "Go back"
+msgstr ""
+
+#: footer.php:39
+msgid "Submit"
+msgstr ""
+
+#: footer.php:52
+msgid "Thank you!"
+msgstr ""
+
+#: footer.php:53
+msgid "We've received your information and we'll get back to you."
+msgstr ""
+
+#: front-page.php:6
+msgid "As a Court Appointed Expert Witness in Mold-Related Cases, We’re Trusted Across Washington, DC"
+msgstr ""
+
+#: front-page.php:7
+msgid "Contact Us for a Free Consultation"
+msgstr ""
+
+#: front-page.php:8
+msgid "Let our expertise guide you. Schedule a consultation to determine if on-site mold testing is the next step for you."
+msgstr ""
+
+#: front-page.php:11
+msgid "Schedule a visit"
+msgstr ""
+
+#: front-page.php:12
+msgid "Call Us Now!"
+msgstr ""
+
+#: front-page.php:36
+msgid "Over 14.5k happy customers on"
+msgstr ""
+
+#: header.php:13
+msgid "Free consultations for the month of October!"
+msgstr ""
+
+#: header.php:14
+msgid "I Want this Deal!"
+msgstr ""
+
+#: header.php:23
+msgid "Plano, TX"
+msgstr ""
+
+#: header.php:45
+msgid "About Us"
+msgstr ""
+
+#: header.php:46
+msgid "Our Services"
+msgstr ""
+
+#: header.php:47
+msgid "Maintenance Packages"
+msgstr ""
+
+#: header.php:49
+msgid "I Want a Quote"
+msgstr ""
+
+#: index.php:33
+msgid "Nothing found here."
+msgstr ""
