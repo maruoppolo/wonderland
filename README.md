@@ -1,3 +1,4 @@
+![Wonder Land - Custom WordPress Theme](screenshot.jpg)
 # Wonder Land - Custom WordPress Theme
 
 This is a high-performance, custom-built WordPress theme developed with a **Code-First** approach. It focuses on pixel-perfect design, extreme performance optimization, and native functionality without the bloat of third-party plugins.
@@ -46,19 +47,19 @@ Although the original design provided was desktop-only, I took the liberty of en
 ## Project Screenshots
 
 ### Desktop View
-![Desktop Hero Section](https://via.placeholder.com/800x450?text=Wonder+Land+Desktop+View)
-
-### Multi-Step Lead Form
-![Multi-Step Modal Form](https://via.placeholder.com/800x450?text=Multi-Step+Form+Step+1)
-
-### Success State
-![Form Success Message](https://via.placeholder.com/800x450?text=Form+Success+State)
+![Desktop Hero Section](https://kloxstudios.com/wp-content/uploads/2026/01/Captura-de-Tela-2026-01-13-as-18.43.40-scaled.png)
 
 ### Admin Leads Dashboard
-![WordPress Admin Leads](https://via.placeholder.com/800x450?text=Custom+Post+Type+Leads)
+![WordPress Admin Leads](https://kloxstudios.com/wp-content/uploads/2026/01/Captura-de-Tela-2026-01-13-as-18.43.52-scaled.png)
 
 ### Mobile View
-![Responsive Mobile Layout](https://via.placeholder.com/400x800?text=Mobile+Responsive+View)
+![Responsive Mobile Layout](https://kloxstudios.com/wp-content/uploads/2026/01/Captura-de-Tela-2026-01-13-as-18.37.53.png)
+
+### Mobile PageSpeed Insights
+![Mobile PageSpeed Insights](https://kloxstudios.com/wp-content/uploads/2026/01/Captura-de-Tela-2026-01-13-as-18.43.26-scaled.png)
+
+### Desktop PageSpeed Insights
+![Desktop PageSpeed Insights](https://kloxstudios.com/wp-content/uploads/2026/01/Captura-de-Tela-2026-01-13-as-18.43.04-scaled.png)
 
 ---
 
